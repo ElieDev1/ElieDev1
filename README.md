@@ -1,35 +1,89 @@
-# Elie Nizeyimana - Programmer
+# Elie Nizeyimana
 
-## Introduction
-Welcome to my GitHub profile! I'm Elie Nizeyimana, a versatile programmer with expertise in several programming languages, including C, C++, Python, HTML, PHP, JavaScript, and VB (Visual Basic).
+## Full Stack Developer | Software Engineer | Tech Entrepreneur
 
-## Contact Information
-- **GitHub:** [github.com/eliedev1](https://github.com/YourGitHubUsername)
-- **Email:** [nizeyelie25@email.com](mailto:youremail@email.com)
+Passionate developer from Rwanda focused on building modern web applications, digital platforms, and scalable software solutions. I enjoy creating impactful systems that solve real-world problems using modern technologies.
 
-## Skills
-- **C:** I'm proficient in C and have experience working on various projects, from system-level programming to embedded systems.
+---
 
-- **C++:** C++ is one of my strong suits, and I enjoy building applications and software using this powerful language.
+## About Me
 
-- **Python:** Python is my go-to language for scripting, web development, data analysis, and more.
+- Currently working on Icyuzi Market — Rwanda’s digital marketplace platform
+- Learning advanced backend architecture, APIs, and scalable systems
+- Interested in:
+  - Web Development
+  - E-commerce Systems
+  - UI/UX Design
+  - Mobile Apps
+  - Cloud Technologies
 
-- **HTML:** I'm skilled in creating and maintaining web pages using HTML, forming the backbone of the web.
+Projects and brands:
+- Icyuzi Market
+- Elie Tech
+- SwiftTech Services
 
-- **PHP:** With PHP, I've developed dynamic web applications and websites, often integrated with databases.
+---
 
-- **JavaScript:** I'm well-versed in JavaScript for frontend and backend web development, creating interactive and responsive web applications.
+## Tech Stack
 
-- **VB (Visual Basic):** I have experience with VB, primarily for Windows application development and automation.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Projects
-I've worked on a wide range of projects throughout my programming journey. Some of the notable projects include:
-- [kim.html](https://github.com/YourGitHubUsername/kim.html): A brief description of this project and its purpose.
+### Frameworks & Tools
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-- [main.py](https://github.com/YourGitHubUsername/main.py): Another project with its specific details.
+---
 
+## Featured Projects
 
-## How to Reach Me
-If you'd like to collaborate on a project or have any questions, feel free to contact me via email at [nizeyelie25@gmail.com](mailto:nizeyelie25@gmail.com). You can also follow me on GitHub to stay updated with my latest projects and contributions.
+### Icyuzi Market
+A modern multi-vendor marketplace platform for Rwanda supporting:
+- Products and services
+- Hotels and restaurants
+- Vendor stores
+- Premium brands
+- Online ordering system
 
-Thank you for visiting my profile!
+### Elie Tech
+An online electronics platform offering:
+- Electronics sales
+- Digital services
+- Online customer support
+- Payment integration
+
+### SwiftTech Services
+Professional digital solutions including:
+- Website development
+- Branding and graphic design
+- Online government services
+- Business support solutions
+
+---
+
+## GitHub Stats
+
+![Elie's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliedev1&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliedev1&layout=compact&theme=tokyonight)
+
+---
+
+## Contact Me
+
+- GitHub: https://github.com/eliedev1
+- Email: nizeyelie25@gmail.com
+
+---
+
+## Quote
+
+"Building digital solutions that create real impact."
